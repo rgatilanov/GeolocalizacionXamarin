@@ -1,0 +1,12 @@
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\Geolocation.deps.json
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\Geolocation.dll
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\Geolocation.pdb
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.csprojAssemblyReference.cache
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.AssemblyInfoInputs.cache
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.AssemblyInfo.cs
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.csproj.CoreCompileInputs.cache
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\XamlC.stamp
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.dll
+G:\EjerciciosMTWDM2020\Geolocation-master\Geolocation-master\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.pdb

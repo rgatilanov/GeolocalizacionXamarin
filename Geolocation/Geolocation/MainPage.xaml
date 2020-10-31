@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Geolocation"
+             x:Class="Geolocation.MainPage">
+
+    <StackLayout>
+        <Label Text = "Latitud: "/>
+        <Label x:Name = "lat"/>
+        <Label Text = "Longitud: "/>
+        <Label x:Name = "lon"/>
+        <Button Text="Mostrar mapa" Clicked="MostrarMapa"/>
+    </StackLayout>
+
+</ContentPage>

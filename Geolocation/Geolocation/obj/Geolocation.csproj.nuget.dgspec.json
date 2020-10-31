@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\EjerciciosMTWDM2020\\Geolocation-master\\Geolocation-master\\Geolocation\\Geolocation\\Geolocation\\Geolocation.csproj": {}
+  },
+  "projects": {
+    "G:\\EjerciciosMTWDM2020\\Geolocation-master\\Geolocation-master\\Geolocation\\Geolocation\\Geolocation\\Geolocation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\EjerciciosMTWDM2020\\Geolocation-master\\Geolocation-master\\Geolocation\\Geolocation\\Geolocation\\Geolocation.csproj",
+        "projectName": "Geolocation",
+        "projectPath": "G:\\EjerciciosMTWDM2020\\Geolocation-master\\Geolocation-master\\Geolocation\\Geolocation\\Geolocation\\Geolocation.csproj",
+        "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
+        "outputPath": "G:\\EjerciciosMTWDM2020\\Geolocation-master\\Geolocation-master\\Geolocation\\Geolocation\\Geolocation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ProBook 450 HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Mis paquetes Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[4.5.0.6, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.4.0.1008975, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

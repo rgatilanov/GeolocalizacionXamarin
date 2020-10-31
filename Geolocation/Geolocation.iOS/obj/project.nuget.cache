@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVoz2MkKZRfKeOB7DJXQZyMWUvowRb8zbQQzs9A9eJSSaXBnTq9pCXGgJ2ayc3XJIC0ntzP3UPfHuVydjqgGSg==",
+  "success": true,
+  "projectFilePath": "G:\\EjerciciosMTWDM2020\\Geolocation-master\\Geolocation-master\\Geolocation\\Geolocation\\Geolocation.iOS\\Geolocation.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.essentials\\1.0.1\\xamarin.essentials.1.0.1.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}
